@@ -1,10 +1,7 @@
 # Welcome! <h1>
-  **I'm David**
-- 👋 Hi, I’m @DavidEsdrs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  **I'm David** (DavidEsdrs)
+ >I'm interested in Back-end development with **C#** and Java
+ >Currently learning Java development
 
 <!---
 DavidEsdrs/DavidEsdrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
