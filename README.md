@@ -1,5 +1,5 @@
 # Welcome! <h1>
-  **I'm David** (DavidEsdrs)
+  **I'm David** (@DavidEsdrs)
  >Currently learning **C#** and **Java** development
 
 <!---
