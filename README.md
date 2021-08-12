@@ -1,6 +1,6 @@
 # Welcome! <h1>
   **I'm David** (@DavidEsdrs)
- >Currently learning **C#** and **Java** development
+ >Currently learning **C#** and **Web development** with HTML, CSS and pure JavaScript.
 
 <!---
 DavidEsdrs/DavidEsdrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
