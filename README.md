@@ -1,4 +1,4 @@
-# Hello, Welcome!
+# 👋 Hello, Welcome!
 
   **I'm David** (@DavidEsdrs)
  >I'm a Software Development student
@@ -18,7 +18,7 @@
 
 ## 🌟 Best projects
 
-Here are some of my best recent project:
+Here are some of my best recent projects:
 
 1. [eblog-api](https://github.com/DavidEsdrs/eblog-api):
 
