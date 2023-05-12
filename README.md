@@ -8,8 +8,8 @@
 
 - 🚀My tech stack includes
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 50px"></img>](link-do-nodejs "NodeJS") 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 50px"></img>](link-do-nodejs "NodeJS")
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 50px"></img>](link-do-nodejs "NodeJS")
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width: 50px"></img>](link-do-nodejs "NodeJS")
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 50px"></img>](link-do-nodejs "NodeJS")
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 50px"></img>](link-do-nodejs "NodeJs") 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 50px"></img>](link-do-nodejs "Typescript")
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 50px"></img>](link-do-nodejs "CSharp")
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width: 50px"></img>](link-do-nodejs "MySQL")
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 50px"></img>](link-do-nodejs "React")
