@@ -7,9 +7,7 @@
 - 💪 Feel free to contact me, let's build some projects together!
 
 - 🚀My tech stack includes
-- 
-| Backend                                                | Database                                              | Frontend                                              |
+
+| <h2 style="background-color: black; padding: 10px">Backend</h2>                                                |<h2 style="background-color: black; padding: 10px">Database</span>                                              | <h2 style="background-color: black; padding: 10px">Frontend</span>                                             |
 |--------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 50px">](link-do-nodejs "NodeJs") | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width: 50px">](link-do-nodejs "MySQL") | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 50px">](link-do-nodejs "React") |
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 50px">](link-do-nodejs "Typescript") |                                                      |                                                       |
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 50px">](link-do-nodejs "CSharp") |                                                      |                                                       |
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width: 50px">](link-do-nodejs "NodeJs")[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width: 50px">](link-do-nodejs "Typescript")[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width: 50px">](link-do-nodejs "CSharp") | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width: 50px">](link-do-nodejs "MySQL") | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 50px">](link-do-nodejs "React") |
