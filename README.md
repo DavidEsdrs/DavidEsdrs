@@ -20,33 +20,18 @@
 
 Here are some of my best recent projects:
 
+## 🌟 Best projects
+
+Here are some of my best recent projects:
+
 1. [eblog-api](https://github.com/DavidEsdrs/eblog-api):
 
 > This project represents my vision of how a CMS (Content Management System) works. It offers a blog api with RBMS (Role based management system). I utilized technologies such as express, mysql, typeorm and zod. It was intended to be a minimal blogging system, yet it still has advanced features. Feel free to [check it out](https://github.com/DavidEsdrs/eblog-api).
-
-Technologies utilized:
-
-- MySQL
-- Typescript
-- TypeORM
 
 2. [instagram-clone](https://github.com/DavidEsdrs/instagram-clone)
 
 > This project offers the main features that instagram offers. Its features include posting, liking, commenting and social interaction. It's currently under development, and additional features like direct messaging, highlights, and stories are intended to be added.
 
-Technologies utilized:
-
-- MySQL
-- Typescript
-- Prisma
-
 3. [music-app](https://github.com/DavidEsdrs/music-app)
 
 > API for music streaming. The API has a range of features for authentication, authorization, music streaming, playlists management, and more. 
-
-Technologies utilized:
-
-- MySQL
-- Typescript
-- TypeORM
-- FFMpeg
