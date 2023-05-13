@@ -20,10 +20,6 @@
 
 Here are some of my best recent projects:
 
-## 🌟 Best projects
-
-Here are some of my best recent projects:
-
 1. [eblog-api](https://github.com/DavidEsdrs/eblog-api):
 
 > This project represents my vision of how a CMS (Content Management System) works. It offers a blog api with RBMS (Role based management system). I utilized technologies such as express, mysql, typeorm and zod. It was intended to be a minimal blogging system, yet it still has advanced features. Feel free to [check it out](https://github.com/DavidEsdrs/eblog-api).
