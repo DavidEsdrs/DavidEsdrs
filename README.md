@@ -1,6 +1,7 @@
 # 👋 Hello, Welcome!
 
-  **I'm David** (@DavidEsdrs)
+  **I'm David** (@DavidEsdrs). Working at CAIXA ECONOMICA FEDERAL. Besides what you see here, most of my time at work I'm working on the **mainframe**.
+
  >I'm a Software Development student in IFPE Recife. I like to build CLI tools and web applications. See more about me in [my portfolio](http://davidesdras.netlify.app/) (in portuguese).
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidesdras/)
